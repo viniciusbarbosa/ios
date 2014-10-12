@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.com.sohoresidenceservice" version="1.0.0">
+    <name>Soho Residence Service</name>
+    <description>
+        Só no Soho Residence Service você tem a liberdade de decidir se quer investir, morar ou participar do pool hoteleiro. A escolha é sua!
+    </description>
+	
+    <author email="viniciusbarbosa4@gmail.com" href="http://www.nonap.com.br">
+        Vinícius Barbosa
+    </author>
+	
+    <icon src="icon.png" />
+
+    <icon gap:platform="ios" height="57" src="www/res/icon/ios/icon-57.png" width="57" />
+    <icon gap:platform="ios" height="72" src="www/res/icon/ios/icon-72.png" width="72" />
+    <icon gap:platform="ios" height="114" src="www/res/icon/ios/icon-57-2x.png" width="114" />
+    <icon gap:platform="ios" height="144" src="www/res/icon/ios/icon-72-2x.png" width="144" />
+	
+	<content src="index.html" />
+    
+	<access origin="*" />
+</widget>
